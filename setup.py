@@ -88,7 +88,7 @@ setup_args = dict(
         'yaspin',
         # KFP runtime dependencies
         'kfp>=1.6.3<2.0',
-        'kfp-tekton~=0.8.1',
+        'kfp-tekton~=0.9.0',
         # Airflow runtime dependencies
         'pygithub',
         'black',
